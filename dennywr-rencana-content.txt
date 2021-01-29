@@ -3,7 +3,7 @@ RENCANA CONTENT DENNYWR
 - JavaScript
   * ES6
   * Framework JavaScript
- -Struktur Data Dasar
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlogs
